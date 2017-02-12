@@ -1,3 +1,2 @@
 # hello-world
-*test*
-Hello world,you are very intresting.
+This should be ignored
